@@ -1,4 +1,4 @@
 # Trabajo-final-LP2
-Medina Gurreonero Mayra Medina 
-Ramos Orue Selene Milagros 
-Untiveros Cruzado Alonso 
+1. Medina Gurreonero Mayra Medina 
+2. Ramos Orue Selene Milagros 
+3. Untiveros Cruzado Alonso 
